@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d670085f2982a3445b1905f47d03d539, type: 3}
+  m_Name: Audio Clips Datas
+  m_EditorClassIdentifier: 
+  AudioClips:
+  - {fileID: 8300000, guid: dbdcc16e12b337b46956e804a32a4e72, type: 3}
+  - {fileID: 8300000, guid: 8f5d450671e92af45b84b1cfb8b317c2, type: 3}
+  - {fileID: 8300000, guid: c9af72d87d3cc1e479255c7924391c70, type: 3}
+  - {fileID: 8300000, guid: 0d3c05395fcd3144fb764dd873c04550, type: 3}
+  AudioClipsID:
+  - Swipe
+  - Won
+  - Slice
+  - Button
